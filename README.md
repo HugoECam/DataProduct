@@ -11,5 +11,5 @@ This is a regression plot, and prediction algorithm.
 
 The Shiny Application is deployed at: <https://hugocam.shinyapps.io/project/>.
 
-The slide deck is at: <http://rickosborne.github.io/dataproducts-project>.
+
 
